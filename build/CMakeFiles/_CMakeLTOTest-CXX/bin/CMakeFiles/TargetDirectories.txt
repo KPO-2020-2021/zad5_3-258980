@@ -1,0 +1,4 @@
+/home/mateusz/Pulpit/Dron/faza3 janiec/build/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir
+/home/mateusz/Pulpit/Dron/faza3 janiec/build/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+/home/mateusz/Pulpit/Dron/faza3 janiec/build/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+/home/mateusz/Pulpit/Dron/faza3 janiec/build/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
